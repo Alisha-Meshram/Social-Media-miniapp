@@ -66,3 +66,4 @@ res.status(200).json(profileUser)
   res.status(500).json({message:error})
 }
 }
+
